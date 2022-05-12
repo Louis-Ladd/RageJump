@@ -202,7 +202,7 @@ PrefabInstance:
       objectReference: {fileID: 1541084029}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 600
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_RootOrder
@@ -579,7 +579,7 @@ PrefabInstance:
       objectReference: {fileID: 882484517}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 600
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_RootOrder
@@ -779,7 +779,7 @@ PrefabInstance:
       objectReference: {fileID: 996473853}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 600
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_RootOrder
@@ -1174,7 +1174,7 @@ PrefabInstance:
       objectReference: {fileID: 1722759673}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 600
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_RootOrder
@@ -20065,7 +20065,7 @@ PrefabInstance:
       objectReference: {fileID: 562941397}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 600
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_RootOrder
@@ -20178,7 +20178,7 @@ PrefabInstance:
       objectReference: {fileID: 1632007660}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 600
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_RootOrder

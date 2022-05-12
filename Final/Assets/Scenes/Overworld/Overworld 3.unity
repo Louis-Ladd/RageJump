@@ -148,7 +148,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -261,7 +261,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -374,7 +374,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -487,7 +487,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -600,7 +600,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -713,7 +713,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -826,7 +826,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -939,7 +939,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -1118,7 +1118,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -1231,7 +1231,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -1436,7 +1436,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -1676,7 +1676,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -1986,7 +1986,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -2099,7 +2099,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -2212,7 +2212,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -2356,7 +2356,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -2469,7 +2469,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -2664,7 +2664,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -2851,7 +2851,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -2964,7 +2964,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -3077,7 +3077,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -3273,7 +3273,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -3386,7 +3386,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -3499,7 +3499,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -3696,7 +3696,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -4304,7 +4304,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -4499,7 +4499,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -4612,7 +4612,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -4813,7 +4813,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -4926,7 +4926,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -5039,7 +5039,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -19210,7 +19210,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -19323,7 +19323,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x
@@ -19481,7 +19481,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 609761644080063871, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: attackTiming
-      value: 500
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6481295711430959414, guid: bb48bafdc6b16394e9555cc45a818518, type: 3}
       propertyPath: m_Pivot.x

@@ -12,7 +12,7 @@ public class Enemy : MonoBehaviour
     [SerializeField] ParticleSystem bloodEffect;
     [SerializeField] ParticleSystem jumpEffect;
     [SerializeField, Range(0, 50)] float viewRange;
-    [SerializeField, Range(500, 5000)] int attackTiming = 1200;
+    [SerializeField, Range(1, 10)] int attackTiming = 2;
 
     public bool amDead = false;
 
@@ -27,35 +27,37 @@ public class Enemy : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        InvokeRepeating("logic", 0, attackTiming);
     }
-
-    // Update is called once per frame
-    void Update()
+    public void logic() //disregaurds frame count :)
     {
         if (amDead)
         {
             return;
         }
         float distance = Vector3.Distance(transform.position, player.transform.position);
-        bool isLeft = player.transform.position.x - transform.position.x < 0? true : false;
-        if(distance < viewRange)
+        bool isLeft = player.transform.position.x - transform.position.x < 0 ? true : false;
+        if (distance < viewRange)
         {
-            
+
             spriteRender.flipX = isLeft ? false : true;
-            if(Time.frameCount % attackTiming == 0 && Time.frameCount != 0)
+            jumpEffect.Play();
+            if (isLeft)
             {
-                jumpEffect.Play();
-                if (isLeft)
-                {
-                    physSelf.AddForce(new Vector2(-2 * distance /2, 5), ForceMode2D.Impulse);
-                }
-                else
-                {
-                    physSelf.AddForce(new Vector2(2 * distance /2, 5), ForceMode2D.Impulse);
-                }
+                physSelf.AddForce(new Vector2(-2 * distance / 2, 5), ForceMode2D.Impulse);
             }
+            else
+            {
+                physSelf.AddForce(new Vector2(2 * distance / 2, 5), ForceMode2D.Impulse);
+            }
+            
         }
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
     }
     IEnumerator deathAnim() //Waits to destroy so particle system doesn't disapear.
     {
