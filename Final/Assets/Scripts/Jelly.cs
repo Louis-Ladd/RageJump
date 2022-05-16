@@ -10,7 +10,11 @@ public class Jelly : MonoBehaviour
         if(collision.gameObject.name == "Player")
         {
             //Lowkey?
+<<<<<<< Updated upstream
             //might conflict?
+=======
+            //this is different text
+>>>>>>> Stashed changes
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
