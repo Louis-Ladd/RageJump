@@ -9,6 +9,7 @@ public class Jelly : MonoBehaviour
     {
         if(collision.gameObject.name == "Player")
         {
+            //Lowkey?
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
