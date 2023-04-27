@@ -9,9 +9,6 @@ public class Jelly : MonoBehaviour
     {
         if(collision.gameObject.name == "Player")
         {
-            //Lowkey?
-            //might conflict?
-            //this is different text
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
