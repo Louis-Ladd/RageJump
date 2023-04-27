@@ -6,7 +6,6 @@ using System.Threading;
 
 public class PlayerMotor : MonoBehaviour
 {
-    //[SerializeField] Lives lifeHandler;
     [SerializeField] Transform playerTrans;
     [SerializeField] Rigidbody2D playerColl;
     [SerializeField] SpriteRenderer playerRenderer;
@@ -118,7 +117,7 @@ public class PlayerMotor : MonoBehaviour
         { 
             if(Input.GetKeyDown("space") && isLoadable)
             {
-                restart(); //Reload scene lol
+                restart(); //Reload scene
                 isLoadable = false;
             }
             return; // don't consider movement if not alive
@@ -151,7 +150,7 @@ public class PlayerMotor : MonoBehaviour
         }
         currentDir = Vector2.SmoothDamp(currentDir, targetDir, ref currentDirVelocity, moveSmoothTime); //Gives a floaty feel to controls
         Vector2 velocity;
-        if (!isGrounded)//Changes power of controls when in air
+        if (!isGrounded)//Changes weight of controls when in air
         {
             velocity = ((transform.right * currentDir) * speed /2 + Vector2.up * velocityY) * Time.deltaTime;
         }
@@ -162,7 +161,7 @@ public class PlayerMotor : MonoBehaviour
         playerTrans.Translate(velocity);
         
     }
-    IEnumerator FadeIn(float duration, float targetAlpha) //Fades in the death screen
+    IEnumerator FadeIn(float duration, float targetAlpha) //Fades in the death bar
     {
         if(isAlive)
         {
@@ -185,7 +184,7 @@ public class PlayerMotor : MonoBehaviour
         }
         StartCoroutine(FadeInSecondary(2, 1));
     }
-    IEnumerator FadeInSecondary(float duration, float targetAlpha) //Fades in the death screen
+    IEnumerator FadeInSecondary(float duration, float targetAlpha) //Fades in the death text
     {
         if (isAlive)
         {
@@ -200,7 +199,6 @@ public class PlayerMotor : MonoBehaviour
         {
             if (isAlive)
             {
-                
                 alphaText.alpha = 0;
                 yield break;
             }
